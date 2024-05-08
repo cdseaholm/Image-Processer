@@ -1,7 +1,8 @@
 # Image-Processer
-CU C++ Final - Image Processor
 
 C++ Final Project - Image Processing Application Description - Overview from class
+
+Used with .BMP files
 	
 OVERVIEW
 The very first week of this class, you may recall that we did an activity in the Runestone Python book called A Preview of the End Goal where you were immediately exposed to some seemingly complicated image processing code. At the time, you were told that although you may not be able to figure out what the code was doing at that point, that you would be able to do something like that by the end of the course. Well, now is the time to make that happen!
